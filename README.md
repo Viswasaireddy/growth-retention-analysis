@@ -1,4 +1,4 @@
-# 📈 Growth & Retention Analysis
+#  Growth & Retention Analysis
 
 ## Problem
 
